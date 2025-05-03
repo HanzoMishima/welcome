@@ -7,7 +7,7 @@ com.gmail.hanzomishima007.d20250301.app002
 1. https://play.google.com/apps/internaltest/4701210155300759310
 1. X https://play.google.com/apps/test/com.gmail.hanzomishima007.d20250301.app002/3
 
-## 2. 2025/05/03 10:38:00 test 1st
+## 1. 2025/05/03 10:38:00 test 1st
 
 App Bundle: 2（1.2）
 https://play.google.com/apps/test/com.gmail.hanzomishima007.d20250301.app002/2
