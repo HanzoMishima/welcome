@@ -2,6 +2,11 @@
 
 com.gmail.hanzomishima007.d20250301.app002
 
+## 2025/05/05 16:46:00 test closed / 3 (1.3)
+
+1. android / https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
+2. web / https://play.google.com/apps/testing/com.gmail.hanzomishima007.d20250301.app002
+
 ## 2025/05/03 11:29:00 test 2nd
 
 1. https://play.google.com/apps/internaltest/4701210155300759310
