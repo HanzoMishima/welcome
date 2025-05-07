@@ -2,6 +2,10 @@
 
 com.gmail.hanzomishima007.d20250301.app002
 
+## 2025/05/06 13:06:00 test release / 3 (1.3) / 製品版リリース
+
+https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
+
 ## 2025/05/05 16:46:00 test closed / 3 (1.3)
 
 1. android / https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
