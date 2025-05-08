@@ -4,6 +4,8 @@ com.gmail.hanzomishima007.d20250301.app002
 
 https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
 
+https://docs.google.com/document/d/1xCSA5apI9GxWLwlcw7avzmETdI5EKC7f7uEwcESWfB8/edit?usp=drive_link
+
 ## 2025/05/06 13:06:00 test release / 3 (1.3) / 製品版リリース
 
 https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
