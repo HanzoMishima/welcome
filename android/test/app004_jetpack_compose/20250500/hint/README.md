@@ -2,7 +2,8 @@
 
 com.gmail.hanzomishima007.d20250301.app002
 
-https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
+1. https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
+1. https://play.google.com/store/apps/details?id=com.gmail.hanzomishima007.d20250301.app002
 
 https://docs.google.com/document/d/1xCSA5apI9GxWLwlcw7avzmETdI5EKC7f7uEwcESWfB8/edit?usp=drive_link
 
