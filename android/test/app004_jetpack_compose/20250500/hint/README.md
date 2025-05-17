@@ -7,6 +7,7 @@ com.gmail.hanzomishima007.d20250301.app002
 1. https://play.google.com/apps/internaltest/4701210155300759310 内部テスト
 1. https://docs.google.com/document/d/1xCSA5apI9GxWLwlcw7avzmETdI5EKC7f7uEwcESWfB8/edit?usp=drive_link
 1. https://sites.google.com/view/hanzo-mishima-007/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0
+1. https://console.firebase.google.com/u/0/?hl=ja
 
 ## 2025/05/06 13:06:00 test release / 3 (1.3) / 製品版リリース
 
